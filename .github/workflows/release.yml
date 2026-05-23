@@ -1,4 +1,4 @@
-name: "owo"
+name: "owo_cli"
 
 on:
   push:
