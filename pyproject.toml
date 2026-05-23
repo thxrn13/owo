@@ -1,5 +1,5 @@
 [project]
-name = "owo"
+name = "owo_cli"
 version = "0.1.0"
 description = "Add an alias for thefuck on any system"
 readme = "README.md"
